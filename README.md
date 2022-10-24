@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View Solution](https://ali007-depug.github.io/NFT-preview-card-component/)
 
 ## My process
 
@@ -49,19 +48,18 @@ Also trying to do alot of tasks and keep learnig and doing.
 
 
 ### Useful resources
-(https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay)
+[Mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay)
 
 This helped me to undrastend the transition
 
-(https://www.w3schools.com/css/css3_object-fit.asp)
+[w3school](https://www.w3schools.com/css/css3_object-fit.asp)
 
 This helped me in how to use object-fit
 
 ## Author
--Frontend Mentor 
-(https://www.frontendmentor.io/profile/ali007-depug)
+[Frontend Mentor](https://www.frontendmentor.io/profile/ali007-depug)
 
--Facebook
-(https://web.facebook.com/ali.abdelbagiali.3)
+[Facebook](https://web.facebook.com/ali.abdelbagiali.3)
 
 ## Acknowledgments
+Thanks for me :) fot trying to do my best.
