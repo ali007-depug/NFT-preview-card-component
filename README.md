@@ -65,4 +65,3 @@ This help how to use object-fit
 (https://web.facebook.com/ali.abdelbagiali.3)
 
 ## Acknowledgments
-Thanks for who 
