@@ -55,7 +55,7 @@ This helped me to undrastend the transition
 
 (https://www.w3schools.com/css/css3_object-fit.asp)
 
-This help how to use object-fit
+This helped me in how to use object-fit
 
 ## Author
 -Frontend Mentor 
